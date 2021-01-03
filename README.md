@@ -25,9 +25,10 @@ Steps to run the program:
 2. In the XAMPP control, start Apache, MySql.
 3. open phpmyadmin on your web browser.
 4. create a database "pharmacymanagement".
-5. copy inner folder pharmacymanagement in ...\xampp\mysql\data.
-6. by localhost open pharmacy_main.php
-7. you now have a running pharmacy management system.
+5. Download this repository, and eextract zip file contents.
+6. copy inner folder pharmacymanagement in ...\xampp\mysql\data.
+7. by localhost open pharmacy_main.php
+8. you now have a running pharmacy management system.
 
 The structure of database for Pharmacy Management System.
 It consists of 'Doctor','Medicine','Patient' and 'Employee' as Strong entities whereas 'Login' and 'History' are weak entities.
