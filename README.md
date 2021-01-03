@@ -35,34 +35,50 @@ It consists of 'Doctor','Medicine','Patient' and 'Employee' as Strong entities w
 'Doctor' entity consists of the following attributes:-
 
 1>Doctor_id <as the primary key>
+  
 2>Doctor_name
+
 3>Experience
+
 4>Speciality
+
 5>Workplace
 
 'Patient' entity consists of the following attributes:-
 
 1>Patient id <as the primary key>
+  
 2>Patient_name
+
 3>Address
+
 4>Phone_no
 
 
 'Medicine' entity consists of the following attributes:-
 
 1>Medicine_id <as the primary key>
+  
 2>Company
+
 3>Price
+
 4>Expiry_date
+
 5>Treat
+
 6>Stock
 
 'Employee' entity consists of the following attributes:-
 
 1>Employee_id
+
 2>Employee_name
+
 3>Address
+
 4>Phone_no
+
 5>Employee_type
 
 The weak entity 'Login' is constituted by the attributes Employee_id and Password whereas 'History' is constituted by attributes
