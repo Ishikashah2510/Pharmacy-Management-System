@@ -1,0 +1,15 @@
+mid 1
+eid 111111
+tamt 120
+for fever
+qty 2
+mid 1
+eid 111111
+tamt 120
+for fever
+qty 2
+mid 1
+eid 111111
+tamt 200
+for fever
+qty 2

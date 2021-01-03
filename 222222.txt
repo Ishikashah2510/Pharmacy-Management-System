@@ -1,0 +1,5 @@
+mid 3
+eid 111111
+tamt 1800
+for fever
+qty 20
