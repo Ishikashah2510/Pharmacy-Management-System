@@ -20,6 +20,8 @@ making a new bill, and the data is stored. If we are billing for a new patient,
 we take details of the patient and the doctor he was prescribed the medicines by. 
 These details are stored in the patient, doctors, treatment table.
 
+The images of tables, the er diagram, the list of tables are attached too, for reference. For demo video : https://drive.google.com/drive/folders/1TrHncVfPB7Q_Pdhjj842WZXSehrNmasX?usp=sharing
+
 Steps to run the program:
 1. Install XAMPP.
 2. In the XAMPP control, start Apache, MySql.
